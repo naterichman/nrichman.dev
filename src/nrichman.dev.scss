@@ -1,0 +1,6 @@
+// Override default variables before the import
+.container {
+    max-width: 100%
+}
+
+@import '~bootstrap/scss/bootstrap.scss';
